@@ -1,3 +1,3 @@
 # licences_sportives
-Description des licences par un (très) grand garçon innocent.
+Description des licences par un élève en stage de 3ème.
 
